@@ -70,7 +70,7 @@ Enable Contact Sets (or apply a Motion Link between the two gear linkages with a
 <img width="725" height="597" alt="Screenshot 2026-11-24 120526" src="https://github.com/user-attachments/assets/6871e509-db42-41f2-8a75-8b939a42cf5b" />
 <img width="707" height="617" alt="Screenshot 2026-11-24 120537" src="https://github.com/user-attachments/assets/b8710c2a-f475-46e5-800b-298442ce9135" />
 
-COPY ALL COMPONENTS AND ASSEMBLE ON THE OTHER SIDE:
+## COPY ALL COMPONENTS AND ASSEMBLE ON THE OTHER SIDE:
 
 <img width="680" height="452" alt="Screenshot 2026-11-24 120542" src="https://github.com/user-attachments/assets/d6ad7469-57a3-4a9a-88d0-1ade7a678811" />
 <img width="696" height="582" alt="Screenshot 2026-11-24 120547" src="https://github.com/user-attachments/assets/6d09eca9-1ac7-4539-bcd7-c79de9421c46" />
